@@ -1,3 +1,5 @@
+estimated time: 6.5 h
+
 - In depth-look at the inner workings of a nueral net and the gradient operations.
 [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&pp=iAQB)
 
