@@ -1,3 +1,5 @@
+![alt text](image-1.png)
+
 estimated time: 6.5 h
 
 - In depth-look at the inner workings of a nueral net and the gradient operations.
