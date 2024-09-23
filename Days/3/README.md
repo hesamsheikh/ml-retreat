@@ -22,6 +22,8 @@ https://docs.mistral.ai/guides/tokenization/
 
 ## Notes
 
+most of the images in these notes are property of [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+
 ![note 1](001_page-0001.jpg)
 ![note 1](001_page-0002.jpg)
 ![note 1](001_page-0003.jpg)
