@@ -4,7 +4,7 @@ estimated time: 7:30 hrs
 
 # LLM fundamentals, Token and Positional Embeddings
 
-- Finished Chapter 1,2,3 of [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+- Finished Chapter 1,2 of [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 
 - Read about Mistral's tokenizer 
 https://docs.mistral.ai/guides/tokenization/
