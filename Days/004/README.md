@@ -1,6 +1,6 @@
-![alt text](image.png)
+![alt text](image-1.png)
 
-estimated time: 6:30 hrs
+estimated time: *** hrs
 
 #  Attention!
 
@@ -16,7 +16,3 @@ estimated time: 6:30 hrs
 ## Notes
 
 most of the images in these notes are property of [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-
-![note 1](1.jpg)
-![note 1](2.jpg)
-![note 1](3.jpg)
