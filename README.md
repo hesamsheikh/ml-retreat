@@ -4,6 +4,9 @@
 
 This repository is my personal journal of learning advanced topics in machine learning. It includes an in-depth understanding of fundamentals + additional must-read/watch recourses for more nuanced subjects.
 
+## 📝 Notes
+[My Notes on "Build an LLM from Scratch"](assets\LLM-from-scratch-notes.pdf)
+
 ## 🎯 Goals
 
 My goals of this learning retreat includes studying: 
@@ -14,3 +17,7 @@ My goals of this learning retreat includes studying:
 - [Andrej Karpathy's golden Neural Net Playlist](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - In-depth understanding/implementations of Transformers
 - LLMs and related topics
+- LLM Halucination in depth
+- Quantum Machine Learning
+- Jax
+- Energy-Based Models
