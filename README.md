@@ -8,6 +8,10 @@ This repository is my personal journal of learning advanced topics in machine le
 ![header](assets/LLM-from-scratch-notes.png)
 [My Notes on "Build an LLM from Scratch"](assets/LLM-from-scratch-notes.pdf)
 
+![header](assets/LLM-hallucination.jpg)
+[My Notes on "LLM Hallucination"](assets/LLM-Hallucination.pdf)
+
+
 ## 🎯 Goals
 
 My goals of this learning retreat includes studying: 
