@@ -6,7 +6,6 @@ estimated time: 3 hrs
 
 - started chapter 4
 
-
 - 🎥
     - [Multi Head Attention in Transformer Neural Networks with Code!](https://www.youtube.com/watch?v=HQn1QKQYXVg)
 

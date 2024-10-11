@@ -10,7 +10,6 @@ estimated time: 6:30 hrs
 
 - read the paper [Hallucination is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
 
-
 ## Notes
 
 ![alt text](1.jpg)
