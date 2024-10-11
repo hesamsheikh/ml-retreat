@@ -1,8 +1,8 @@
 ![alt text](image.png)
 
-estimated time: *** hrs
+estimated time: 4 hrs
 
-# 
+# Rotary Positional Embedding
 
 ### RoPE
 
