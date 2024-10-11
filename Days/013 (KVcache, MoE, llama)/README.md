@@ -1,6 +1,6 @@
 ![alt text](image.png)
 
-estimated time: ** hrs
+estimated time: 6:30 hrs
 
 # KV Cache, Mixture of Experts
 
@@ -23,3 +23,7 @@ For KV Cache I mainly learned using ChatGPT, I hope my notes are helpful enough 
 - watched [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7)
 
 ## Notes
+
+![1](1.jpg)
+![1](2.jpg)
+![1](3.jpg)
