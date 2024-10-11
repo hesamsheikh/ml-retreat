@@ -1,15 +1,17 @@
+<div align="center">
+  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Hesamation">
+  &nbsp;&nbsp;&#9679;&nbsp;&nbsp;  <!-- Bullet point with extra spaces -->
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hesamsheikh/ml-retreat">
+  &nbsp;&nbsp;&#9679;&nbsp;&nbsp;  <!-- Bullet point with extra spaces -->  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/hesamsheikh/ml-retreat">
+</div>
+
+<br>
+
 # ML Retreat: Advanced ML Learning Journal
 
 ![header](assets/image.png)
 
 This repository is my personal journal of learning advanced topics in machine learning. It includes an in-depth understanding of fundamentals + additional must-read/watch recourses for more nuanced subjects.
-
-<div align="center">
-  <b>I share more about my learning and resources on X, don't miss out :)</b>
-    <br/>
-    <br/>
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-</div>
 
 ## 📝 My Notes
 <div align="center">
