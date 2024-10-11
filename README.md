@@ -4,18 +4,18 @@
 
 This repository is my personal journal of learning advanced topics in machine learning. It includes an in-depth understanding of fundamentals + additional must-read/watch recourses for more nuanced subjects.
 
-## 📝 Notes
+## 📝 My Notes
 <table>
   <tr>
     <td>
       <img src="assets/LLM-from-scratch-notes.png" width="200"/>
       <br/>
-      <a href="assets/LLM-from-scratch-notes.pdf">My Notes on "Build an LLM from Scratch"</a>
+      <a href="assets/LLM-from-scratch-notes.pdf">Build an LLM from Scratch</a>
     </td>
     <td>
       <img src="assets/LLM-hallucination.jpg" width="200"/>
       <br/>
-      <a href="assets/LLM-Hallucination.pdf">My Notes on "LLM Hallucination"</a>
+      <a href="assets/LLM-Hallucination.pdf">LLM Hallucination</a>
     </td>
   </tr>
 </table>
