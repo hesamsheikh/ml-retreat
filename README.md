@@ -22,6 +22,11 @@ This repository is my personal journal of learning advanced topics in machine le
         <br/>
         <a href="assets/LLM-Hallucination.pdf">LLM Hallucination</a>
       </td>
+      <td>
+        <img src="assets/LLM-Edge-Beyond-Attention.png" width="300"/>
+        <br/>
+        <a href="assets/LLM-Edge-Beyond-Attention.pdf">LLM Edge: Beyond Attention</a>
+      </td>
     </tr>
   </table>
 </div>
@@ -36,8 +41,8 @@ My goals of this learning retreat includes studying:
 - [Artem Kirsanov's AI/ML Playlist](https://www.youtube.com/playlist?list=PLgtmMKe4spCPsxyMpg-sxf3EcbsFYlzPK)
 - [Andrej Karpathy's golden Neural Net Playlist](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - In-depth understanding/implementations of Transformers
-- LLMs and related topics
-- LLM Halucination in depth
+- LLMs and related topics ✅
+- LLM Halucination in depth ✅
 - Quantum Machine Learning
 - Jax
 - Energy-Based Models
