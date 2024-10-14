@@ -1,6 +1,6 @@
 ![alt text](image.png)
 
-estimated time: ** hrs
+estimated time: 6 hrs
 
 # Vision Transformers (ViT)
 
