@@ -2,7 +2,7 @@
 
 estimated time: 7 hrs
 
-# Multi Modal LLM
+# Multi Modal Language Model
 
 - [Multimodality and Large Multimodal Models (LMMs)](https://huyenchip.com/2023/10/10/multimodal.html)
 
