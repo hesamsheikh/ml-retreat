@@ -1,6 +1,6 @@
 # ML Retreat: Advanced ML Learning Journal
 
-![header](assets/image.png)
+![header](assets/header.png)
 
 This repository is my personal journal of learning advanced topics in machine learning. It includes an in-depth understanding of fundamentals + additional must-read/watch recourses for more nuanced subjects.
 
