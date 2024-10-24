@@ -2,6 +2,8 @@
 
 ![header](assets/header.png)
 
+**Current Grind: GNNs**
+
 This repository is my personal journal of learning advanced topics in machine learning. It includes an in-depth understanding of fundamentals + additional must-read/watch recourses for more nuanced subjects.
 
 <div align="center">
