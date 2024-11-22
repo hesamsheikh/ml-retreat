@@ -33,6 +33,26 @@ This repository is my personal journal of learning advanced topics in machine le
   </table>
 </div>
 
+## 📕 Table of Content
+If you go to th [Days Folder](Days/) you can find a list of all the topics I have covered. However, for easier access to a specific subject, check out this table to find which days to go through.
+
+<div align="center">
+  <table border="1">
+    <tr>
+      <th>Subject</th>
+      <th>Check out:</th>
+    </tr>
+    <tr>
+      <td>Large Language Models</td>
+      <td>from <a href="Days\003 (llm fundamentals, pos embedding)">Day 003</a> to <a href="Days\016 (Multi Modal LM)">Day 016</a></td>
+    </tr>
+    <tr>
+      <td>Graph Neural Networks</td>
+      <td>from <a href="Days\017 (GNN)">Day 017</a> - </td>
+    </tr>
+  </table>
+</div>
+
 
 ## 🎯 Goals
 
