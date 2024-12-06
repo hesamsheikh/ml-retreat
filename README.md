@@ -48,7 +48,7 @@ If you go to th [Days Folder](Days/) you can find a list of all the topics I hav
     </tr>
     <tr>
       <td>Graph Neural Networks</td>
-      <td>from <a href="Days\017 (GNN)">Day 017</a> - </td>
+      <td>from <a href="Days\017 (GNN)">Day 017</a>  to <a href="Days\022 (GNN)">Day 022</a></td></td>
     </tr>
   </table>
 </div>
