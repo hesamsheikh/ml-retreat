@@ -29,6 +29,11 @@ This repository is my personal journal of learning advanced topics in machine le
         <br/>
         <a href="assets/LLM-Edge-Beyond-Attention.pdf">LLM Edge: Beyond Attention</a>
       </td>
+      <td>
+        <img src="assets/introduction-to-GNN.png" width="300"/>
+        <br/>
+        <a href="assets/introduction-to-GNN.pdf">Introduction to GNNs</a>
+      </td>
     </tr>
   </table>
 </div>
