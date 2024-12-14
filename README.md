@@ -2,7 +2,7 @@
 
 ![header](assets/header.png)
 
-**Current Grind: GNNs**
+**Current Grind: Mechanistic Interpretability**
 
 This repository is my personal journal of learning advanced topics in machine learning. It includes an in-depth understanding of fundamentals + additional must-read/watch recourses for more nuanced subjects.
 
@@ -29,10 +29,17 @@ This repository is my personal journal of learning advanced topics in machine le
         <br/>
         <a href="assets/LLM-Edge-Beyond-Attention.pdf">LLM Edge: Beyond Attention</a>
       </td>
+    </tr>
+    <tr>
       <td>
         <img src="assets/introduction-to-GNN.png" width="300"/>
         <br/>
         <a href="assets/introduction-to-GNN.pdf">Introduction to GNNs</a>
+      </td>
+      <td>
+        <img src="assets/AlphaFold3.png" width="300"/>
+        <br/>
+        <a href="assets/AlphaFold3.pdf">AlphaFold3: a machine learning look</a>
       </td>
     </tr>
   </table>
@@ -54,6 +61,10 @@ If you go to th [Days Folder](Days/) you can find a list of all the topics I hav
     <tr>
       <td>Graph Neural Networks</td>
       <td>from <a href="Days\017 (GNN)">Day 017</a>  to <a href="Days\022 (GNN)">Day 022</a></td></td>
+    </tr>
+    <tr>
+      <td>AlphaFold 3</td>
+      <td><a href="Days\023 (AlphaFold)">Day 23</a></td>
     </tr>
   </table>
 </div>
