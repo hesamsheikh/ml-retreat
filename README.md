@@ -41,6 +41,11 @@ This repository is my personal journal of learning advanced topics in machine le
         <br/>
         <a href="assets/AlphaFold3.pdf">AlphaFold3: a machine learning look</a>
       </td>
+      <td>
+        <img src="assets\Natural-Language-Processing.png" width="300"/>
+        <br/>
+        <a href="assets\Natural-Language-Processing.pdf">Natural Language Processing</a>
+      </td>
     </tr>
   </table>
 </div>
