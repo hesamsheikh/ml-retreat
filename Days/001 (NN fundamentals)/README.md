@@ -13,6 +13,6 @@ estimated time: 6.5 h
 
 - (PyTorch Example code of backprop)[https://www.youtube.com/watch?v=E-I2DNVzQLg&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=5]
 
-- A look at the classic literature of backpropagation [Learning representations by back-propagating errors.pdf](Days\1\Learning-representations-by-back-propagating-errors.pdf)
+- A look at the classic literature of backpropagation [Learning representations by back-propagating errors.pdf](Learning-representations-by-back-propagating-errors.pdf)
 
 - Chapter 6 of the Deep Learning book on Feedforward Networks [Deeplearning Chapter 6](https://www.deeplearningbook.org/contents/mlp.html)
